@@ -1,4 +1,4 @@
-package com.struts.demo.action;
+package com.struts.action;
 
 public class TutorialAction {
 	public String execute() {
